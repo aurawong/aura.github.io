@@ -6,14 +6,16 @@
 @import "_reset";
 @import "_mixins";
 @import "_plugins";
+
+// - - - - - - - - - - Import custom fonts - Billie
 @font-face {
-    font-family: "Futura_Book";
+    font-family: "Futura Book";
     src: url("../_font/Futura_Book.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 };
 @font-face {
-    font-family: "Futura_Light";
+    font-family: "Futura Light";
     src: url("../_font/Futura_Light.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
