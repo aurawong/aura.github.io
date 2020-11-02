@@ -3,6 +3,9 @@ site: Aura
 url: https://www.aurawong.com
 baseurl: 
 
+include:
+  - _font
+
 collections:
   pages:
     output: true

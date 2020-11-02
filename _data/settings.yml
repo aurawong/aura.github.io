@@ -76,7 +76,7 @@ color_settings:
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
   title_font: '"Times", sans-serif'
-  body_font: '"Muli", sans-serif'
+  body_font: '"Futura_Book", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
