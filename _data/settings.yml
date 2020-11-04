@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Aura
+  site_title: Aura<br>Huang
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -20,7 +20,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: Aura's personal portfolio site made with ❤️ by Billie
+  footer_tagline: You are now at the end of this website. Please scroll up.
 
 grid_settings:
   overlay_opacity: 0.8
@@ -84,19 +84,19 @@ font_settings:
     medium_size: 30
     large_size: 35
     weight: 700
-    letter_spacing: -0.02
+    letter_spacing: 1
   menu:
     small_size: 30
     medium_size: 15
     large_size: 17
     weight: 600
-    letter_spacing: 0
+    letter_spacing: 1
   grid_item_title:
     small_size: 22
     medium_size: 30
     large_size: 35
     weight: 700
-    letter_spacing: -0.02
+    letter_spacing: 0
   grid_item_subtitle:
     small_size: 15
     medium_size: 17
