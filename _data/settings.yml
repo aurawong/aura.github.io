@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Aura<br>Huang
+  site_title: <letter-spacing="0.5">Aura</letter-spacing><br><letter-spacing="0.2">Huang</letter-spacing>
   favicon_image: /images/favicon.png
 
 header_settings:
